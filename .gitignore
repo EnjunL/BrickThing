@@ -10,6 +10,15 @@
 /[Ll]ogs/
 /[Mm]emoryCaptures/
 
+MyActualProject/[Ll]ibrary/
+MyActualProject/[Tt]emp/
+MyActualProject/[Oo]bj/
+MyActualProject/[Bb]uild/
+MyActualProject/[Bb]uilds/
+MyActualProject/[Ll]ogs/
+MyActualProject/[Mm]emoryCaptures/
+MyActualProject/.vscode/
+
 # Asset meta data should only be ignored when the corresponding asset is also ignored
 !/[Aa]ssets/**/*.meta
 
